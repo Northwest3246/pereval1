@@ -24,7 +24,7 @@
 - 
 - ### 1. Клонирование и зависимости 
 - ```bash 
-- git clone https://github.com/Northwest3246/fstr-drf-api.git 
+- git clone https://github.com/Northwest3246/pereval1 
 - cd fstr-drf-api 
 - pip install -r requirements.txt
 - ### 2. Настройка окружения
